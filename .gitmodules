@@ -1,0 +1,6 @@
+[submodule "Iliyagram"]
+	path = Iliyagram
+	url = https://github.com/IlyaSvetlichnii/Iliyagram.git
+[submodule "foodtracktor"]
+	path = foodtracktor
+	url = https://github.com/IlyaSvetlichnii/foodtracktor.git
